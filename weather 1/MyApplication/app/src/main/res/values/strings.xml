@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="forecast">Dự báo</string>
+    <string name="daily_forecast">Dự báo theo ngày</string>
+    <string name="hourly_forecast">Dự báo theo giờ</string>
+    <string name="input_city">Nhập tên thành phố</string>
+    <string name="fetching_weather">Đang lấy dữ liệu thời tiết...</string>
+    <string name="no_city">Không nhận được tên thành phố</string>
+    <string name="error_parsing">Lỗi khi phân tích dữ liệu thời tiết</string>
+    <string name="error_fetching">Không thể lấy dữ liệu thời tiết</string>
+    <string name="choose_forecast">Chọn kiểu dự báo</string>
+    <string name="enter_city">Vui lòng nhập tên thành phố</string>
+    <string name="facebook_login">Login with Facebook</string>
+    <string name="google_login">Login with Google</string>
+    <string name="apple_login">Login with Apple</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+
+</resources>
